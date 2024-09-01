@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MS TRADING</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>MS TRADING</h1>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Us</h2>
+            <p>Welcome to our store! We are proud to offer the highest quality fabric and design for your business. Our extensive collection is guaranteed to meet all your needs.</p>
+        </section>
+
+        <section id="services">
+            <h2>Our Services</h2>
+            <p>Welcome to our store! We are proud to offer your business the highest quality fabric and design. Our extensive collection is guaranteed to meet all your needs.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Mo: <a href="tel:+918200513693"><strong>+91-8200513693</strong></a></p>
+            <p>Email: <a href="mailto:mstradring@gmail.com"><strong>mstradring@gmail.com</strong></a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 MS TRADING. All rights reserved.</p>
+    </footer>
+</body>
+</html>
